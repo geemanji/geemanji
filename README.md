@@ -40,27 +40,27 @@ My journey has been shaped by a commitment to continuous learning and improvemen
 - **Email**: [spontaneousmanji@gmail.com](mailto:spontaneousmanji@gmail.com)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mbragi&label=Profile%20views&color=0e75b6&style=flat&theme=github_dark" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=geemanji&label=Profile%20views&color=0e75b6&style=flat&theme=github_dark" alt="Profile Views" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbragi&theme=cobalt2" alt="GitHub Profile Summary" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geemanji&theme=cobalt2" alt="GitHub Profile Summary" />
 </p>
 
 <p>
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mbragi&theme=transparent" alt="Most Commit Language" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mbragi&theme=transparent" alt="Repositories per Language" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geemanji&theme=transparent" alt="Most Commit Language" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geemanji&theme=transparent" alt="Repositories per Language" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbragi&show_icons=true&rank_icon=github&locale=en&theme=transparent&hide_border=true" alt="GitHub Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbragi&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" alt="Top Languages" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geemanji&show_icons=true&rank_icon=github&locale=en&theme=transparent&hide_border=true" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geemanji&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" alt="Top Languages" />
 </p>
 
 <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=mbragi&theme=algolia&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=geemanji&theme=algolia&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
