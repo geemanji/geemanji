@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm **Gar Manji Michael**, a dedicated **Software Engineer** passionate about solving challenging problems and delivering innovative, scalable solutions. Whether it's refining existing systems or architecting new ones, I thrive on turning challenges into opportunities.
+I'm **Gar Manji Michael**, A **Software Engineer** passionate about solving challenging problems and delivering innovative, scalable solutions. Whether it's refining existing systems or architecting new ones, I thrive on turning challenges into opportunities.
 
 My journey has been shaped by a commitment to continuous learning and improvement. I believe effective problem-solving goes beyond technical know-how—it’s about understanding challenges at their core and creating strategies that drive meaningful, lasting impact.
 
