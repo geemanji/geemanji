@@ -36,9 +36,6 @@ My journey has been shaped by a commitment to continuous learning and improvemen
 
 ---
 
-## 📬 Get in Touch
-- [Email](mailto:garmanjimichael@gmail.com)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=geemanji&label=Profile%20views&color=0e75b6&style=flat&theme=github_dark" alt="Profile Views" />
 </p>
@@ -63,6 +60,10 @@ My journey has been shaped by a commitment to continuous learning and improvemen
     <img src="https://github-profile-trophy.vercel.app/?username=geemanji&theme=algolia&column=6" alt="GitHub Trophies" />
 </p>
 
----
+----
 
-⭐️ *Feel free to explore my repositories and reach out for collaboration!*
+
+## 📬 Get in Touch
+- [Email](mailto:garmanjimichael@gmail.com)
+
+----
