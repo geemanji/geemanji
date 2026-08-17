@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=geemanji&label=Profile%20views&color=0e75b6&style=flat&theme=github_dark" alt="Profile Views" />
 </p>
----
 
 ## Let's Get To Know Gar
 Hello there! 👋
