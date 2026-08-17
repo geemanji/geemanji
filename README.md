@@ -43,7 +43,7 @@ My journey has been shaped by a commitment to continuous learning and improvemen
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geemanji&theme=cobalt2" alt="GitHub Profile Summary" />
 </p>
 
@@ -52,9 +52,6 @@ My journey has been shaped by a commitment to continuous learning and improvemen
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geemanji&theme=transparent" alt="Repositories per Language" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geemanji&show_icons=true&rank_icon=github&locale=en&theme=transparent&hide_border=true" alt="GitHub Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geemanji&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" alt="Top Languages" />
-</p>
 
 <p>
     <img src="https://github-profile-trophy.vercel.app/?username=geemanji&theme=algolia&column=6" alt="GitHub Trophies" />
