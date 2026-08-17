@@ -1,4 +1,10 @@
-# Hello there! 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=geemanji&label=Profile%20views&color=0e75b6&style=flat&theme=github_dark" alt="Profile Views" />
+</p>
+---
+
+## Let's Get To Know Gar
+Hello there! 👋
 
 I'm **Gar Manji Michael**, A **Software Engineer** passionate about solving challenging problems and delivering innovative, scalable solutions. Whether it's refining existing systems or architecting new ones, I thrive on turning challenges into opportunities.
 
@@ -36,12 +42,6 @@ My journey has been shaped by a commitment to continuous learning and improvemen
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=geemanji&label=Profile%20views&color=0e75b6&style=flat&theme=github_dark" alt="Profile Views" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geemanji&theme=cobalt2" alt="GitHub Profile Summary" />
@@ -52,13 +52,7 @@ My journey has been shaped by a commitment to continuous learning and improvemen
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geemanji&theme=transparent" alt="Repositories per Language" />
 </p>
 
-
-<p>
-    <img src="https://github-profile-trophy.vercel.app/?username=geemanji&theme=algolia&column=6" alt="GitHub Trophies" />
-</p>
-
 ----
-
 
 ## 📬 Get in Touch
 - [Email](mailto:garmanjimichael@gmail.com)
