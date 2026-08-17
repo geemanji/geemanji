@@ -2,12 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=geemanji&label=Profile%20views&color=0e75b6&style=flat&theme=github_dark" alt="Profile Views" />
 </p>
 
-## Let's Get To Know Gar
-Hello there! 👋
+## 👋 Let's Get To Know Gar
+Hellooooo !!!
 
-I'm **Gar Manji Michael**, A **Software Engineer** passionate about solving challenging problems and delivering innovative, scalable solutions. Whether it's refining existing systems or architecting new ones, I thrive on turning challenges into opportunities.
+Gar Manji Michael is a SWE passionate about solving challenging problems and delivering innovative, scalable solutions. Whether it's refining existing systems or architecting new ones, I thrive on turning challenges into opportunities.
 
-My journey has been shaped by a commitment to continuous learning and improvement. I believe effective problem-solving goes beyond technical know-how—it’s about understanding challenges at their core and creating strategies that drive meaningful, lasting impact.
+My journey has been shaped by a commitment to continuous learning and improvement. I believe effective problem-solving goes beyond technical know-how, it’s about understanding challenges at their core and creating strategies that drive meaningful, lasting impact.
 
 ---
 
