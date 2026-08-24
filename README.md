@@ -5,10 +5,20 @@
 ## 👋 Let's Get To Know Gar
 Hellooooo !!!
 
-Gar Manji Michael is a SWE passionate about solving challenging problems and delivering innovative, scalable solutions. Whether it's refining existing systems or architecting new ones, I thrive on turning challenges into opportunities.
+Gar Manji Michael, A SWE passionate about solving challenging problems and delivering innovative, scalable solutions. <br/> 
+Whether it's refining existing systems or architecting new ones.<br/>
+I thrive on turning challenges into opportunities.<br/>
 
-My journey has been shaped by a commitment to continuous learning and improvement. I believe effective problem-solving goes beyond technical know-how, it’s about understanding challenges at their core and creating strategies that drive meaningful, lasting impact.
+### Journey 
+My journey has been shaped by a commitment to continuous learning, curiosity and improvement.<br/>
+I believe effective problem-solving goes beyond technical know-how,<br/>
+it’s about understanding challenges at their core and creating strategies that drive meaningful, lasting impact.<br/>
+This has lead me into working in different tech domains but strongly focused on web2 and web3 domains.<br/>
+I having been able to Lead Development teams into completion of systems and applications, I love to believe I would pass as a Technical Product Manager 😏. <br/>
+currently keeping up with AI Engineering and Trend with a flare for it's adoption with the Internet of Things 🌚😜.
 
+| | | | | <br/>
+V V V
 ---
 
 ## 🔧 Technologies & Tools
